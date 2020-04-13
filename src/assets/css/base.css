@@ -1,0 +1,9 @@
+@import "http://at.alicdn.com/t/font_1232821_5mtytj0rqll.css";
+
+*{
+  margin:0;
+  padding: 0;
+}
+html,body,#app{
+  height: 100%
+}
